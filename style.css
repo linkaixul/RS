@@ -1,3 +1,18 @@
-body{
+.head1{
     background-color: #c5e3d5;
+}
+
+body{
+    background-color: #E4f9f5;
+}
+
+#cloud{
+    position: absolute;
+    right: 100px;
+    top: 260px;
+}
+#cloud-b{
+    position: absolute;
+    right: 10px;
+    top: 400px;
 }
